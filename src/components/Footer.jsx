@@ -9,7 +9,7 @@ const Footer = () => {
 					<div className="flex flex-col gap-10">
 						<img src={logoWhite} alt="logo" className="object-contain w-1/2 lg:w-full" />
 						<p className="text-sm font-normal leading-tight text-slate-50">
-							Copyright &copy; 2023 Nexcent ltd. <br className="hidden mt-5 lg:block" /> All rights reserved
+							Copyright &copy; 2024 AD-Mission ltd. <br className="hidden mt-5 lg:block" /> All rights reserved
 						</p>
 						<div className="flex gap-4">
 							{socials.map((social) => (
