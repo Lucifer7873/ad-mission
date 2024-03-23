@@ -68,6 +68,8 @@ export const navButtons = [
 	},
 ];
 
+export { Services };
+
 export const clients = [
 	{
 		id: "client1",

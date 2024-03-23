@@ -1,6 +1,8 @@
 import Header from "./Header";
 import Navbar from "./Navbar";
 import Main from "./Main";
+import React from "react";
+import Services from "./services";
 import Hero from "./Hero";
 import Client from "./Client";
 import Community from "./Community";
@@ -13,4 +15,4 @@ import CTA from "./CTA";
 import Footer from "./Footer";
 import Button from "./Button";
 
-export { Header, Navbar, Main, Hero, Client, Community, Unlock, Stats, Calendar, Customer, Blog, CTA, Footer, Button };
+export { Header, Navbar, React, Services, Main, Hero, Client, Community, Unlock, Stats, Calendar, Customer, Blog, CTA, Footer, Button };
